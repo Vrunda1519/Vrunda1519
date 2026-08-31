@@ -24,25 +24,6 @@ I’m a **Data Analyst** passionate about transforming data into meaningful insi
 
 ---
 
-### 🛠️ Tech Stack
-
-**Programming & Data Analysis**
-
-
-
-
-\
-
-**Data Visualization & BI**
-
-\
-
-**Productivity & Analytics**
-
-\
-
----
-
 ### 👯 I’m Looking to Collaborate On
 
 * 📊 Data Analytics projects
