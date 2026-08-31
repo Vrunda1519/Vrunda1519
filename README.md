@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # 👋 Hi, I'm Vrunda Shastri
 
 ### 📊 Data Analyst | SQL | Python | Power BI | Tableau
@@ -35,6 +35,17 @@ I’m a **Data Analyst** passionate about transforming data into meaningful insi
 
 **SQL • Python • Pandas • NumPy • Excel • Power BI • Tableau • Data Cleaning • EDA • Data Visualization**
 
+---
+
+## 🛠️ Technical Skills
+
+- *Languages:* Python, SQL
+- *Data Analysis:* Pandas, NumPy, EDA, Data Cleaning
+- *Visualization:* Matplotlib, Power BI, Tableau
+- *Excel:* Pivot Tables, XLOOKUP, Data Analysis
+- *Databases:* SQL Server, PostgreSQL, MySQL
+- *Analytics:* Statistical Analysis, Reporting, Data Interpretation
+  
 ---
 
 ### 📜 Certifications & Learning
