@@ -46,7 +46,7 @@ I’m a **Data Analyst** passionate about transforming data into meaningful insi
 
 ### 📫 Let's Connect
 
-<a href="[www.linkedin.com/in/vrundashastri](http://www.linkedin.com/in/vrundashastri)">   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/vrundashastri">   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:[vrunda.shastri15@gmail.com](mailto:vrunda.shastri15@gmail.com)">   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
