@@ -51,7 +51,7 @@ I’m a **Data Analyst** passionate about transforming data into meaningful insi
 ### 📜 Certifications & Learning
 
 * ☁️ **Microsoft Azure AI Fundamentals (AI-900)**
-* 📊 **Junior Data Analyst Program** — NPower Canada
+* 📊 **IBM Data Analystprofessional certificate**
 
 ---
 
